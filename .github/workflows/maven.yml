@@ -25,7 +25,7 @@ jobs:
         run: |
           git clone https://github.com/thisisqubika/qa-selenium-workshop.git cucumber-archetype-parallel-advance
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN_FROM_ANOTHER_REPO }}
 
       # Set up JDK 20
       - name: Set up JDK 20
