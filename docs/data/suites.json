@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "An example of picocontainer",
+    "children" : [ {
+      "name" : "An example of picocontainer to login",
+      "uid" : "ff77bc068956f264",
+      "parentUid" : "837df654a2d0a961c346212caab0858a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1734921172220,
+        "stop" : 1734921177556,
+        "duration" : 5336
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "837df654a2d0a961c346212caab0858a"
+  } ]
+}

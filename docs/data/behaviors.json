@@ -1,0 +1,25 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "An example of picocontainer",
+    "children" : [ {
+      "name" : "An example of picocontainer to login",
+      "children" : [ {
+        "name" : "An example of picocontainer to login",
+        "uid" : "ff77bc068956f264",
+        "parentUid" : "86a18fbc38621a0bef8d83970c376915",
+        "status" : "passed",
+        "time" : {
+          "start" : 1734921172220,
+          "stop" : 1734921177556,
+          "duration" : 5336
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "86a18fbc38621a0bef8d83970c376915"
+    } ],
+    "uid" : "c91666f92f7525735462776d776923ee"
+  } ]
+}

@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "workshopcucumberadvance.example_feature.An example of picocontainer",
+    "children" : [ {
+      "name" : "An example of picocontainer to login",
+      "uid" : "ff77bc068956f264",
+      "parentUid" : "127ad8ed27d583db5b3557164e260c04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1734921172220,
+        "stop" : 1734921177556,
+        "duration" : 5336
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "workshopcucumberadvance.example_feature.An example of picocontainer"
+  } ]
+}

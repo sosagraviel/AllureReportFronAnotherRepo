@@ -1,0 +1,11 @@
+[ {
+  "uid" : "ff77bc068956f264",
+  "name" : "An example of picocontainer to login",
+  "time" : {
+    "start" : 1734921172220,
+    "stop" : 1734921177556,
+    "duration" : 5336
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

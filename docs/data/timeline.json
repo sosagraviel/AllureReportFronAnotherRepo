@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "fv-az1964-288",
+    "children" : [ {
+      "name" : "1982@fv-az1964-288.main(1)",
+      "children" : [ {
+        "name" : "An example of picocontainer to login",
+        "uid" : "ff77bc068956f264",
+        "parentUid" : "0b201d8003c1b395a6e8cfb144a16e82",
+        "status" : "passed",
+        "time" : {
+          "start" : 1734921172220,
+          "stop" : 1734921177556,
+          "duration" : 5336
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0b201d8003c1b395a6e8cfb144a16e82"
+    } ],
+    "uid" : "9aedab605d9e91385c884ffa46183f08"
+  } ]
+}
